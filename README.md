@@ -1,5 +1,5 @@
 # LAVU : Where your dreams of personalized luxury come true!
-
+<div align="justify">
 
 ## Introduction
 
@@ -64,9 +64,18 @@ Twitter, which highlights our brand voice; on TikTok, which allows us to interac
 public in a fun and informal way; and on LinkedIn, which is highly effective in generating
 quality leads.
 
-
 ## Business Model Canvas
 
+# Students members 
+
+* Lorrayne Reis Silva
+* Abhishek Das
 
 
+## Responsible teacher
+
+* Professor Eduardo Alonso
+
+
+<div>
 
