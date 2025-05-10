@@ -1223,18 +1223,11 @@ section,
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
 
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
 
 /*--------------------------------------------------------------
 # Video
 --------------------------------------------------------------*/
-/* Style the video: 100% width and height to cover the entire window */
 
 
 /* Add some content at the bottom of the video/page */
@@ -1290,7 +1283,25 @@ section,
 }
 
 
+/*--------------------------------------------------------------
+# PayPal Section
+--------------------------------------------------------------*/
 
+
+/* Center PayPal button container */
+#paypal-button-container {
+  justify-content: center;  /* Center horizontally */
+  align-items: center;  
+  padding: 450px;
+  padding-top: 90px;
+  margin: 50px;    /* Center vertically */
+          /* Full viewport height */
+}
+
+
+#portfolio-details-2{
+  margin: 100px;
+}
 
 
 

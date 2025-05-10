@@ -44,14 +44,12 @@
     <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
         <h1 class="sitename">Lavu</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="video1.html">Home</a></li>
+          <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
@@ -179,21 +177,21 @@
                   });
             
                   if (response.ok) {
-                    // Show the thank-you message
-                    thankYouMessage.style.display = "none"; // Display thank-you message
+                   
+                    thankYouMessage.style.display = "none";
             
-                    // Hide the entire form (including fields and submit button)
+                  
                     form.style.display = "none"; 
             
-                    // Optionally hide the submit button (if you want)
-                    submitButton.style.display = "none";  // Hide the submit button if you want
+          
+                    submitButton.style.display = "none";  
                   } else {
-                    // If the response is not OK, log it and show an alert
+                  
                     console.error('Error:', response.statusText);
                     alert("Oops, something went wrong. Please try again later.");
                   }
                 } catch (error) {
-                  // Catch any error during fetch and display a message
+                  
                   console.error('Error:', error);
                   alert("Oops, something went wrong. Please try again later.");
                 }
