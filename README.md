@@ -3,6 +3,8 @@
 
 ## Introduction
 
+<img src="./Website/lavu-1.0.0/assets/img/lavu.png" width="900"/>
+
 LAVU is based on the concept of combining traditional products with trends consumed by this generation. One of the main allies in applying uniqueness is the use of technology, especially generative Artificial Intelligence, which is being used to enable the creation of limited edition products for the luxury industry with art.
 
 ## Production and outputs
@@ -45,7 +47,11 @@ painter and Latin American modernist.
 
 
 ## Portfolio
+
 ### Webiste
+
+
+<img src="./Website/lavu-1.0.0/assets/img/website_1.png" width="900"/>
 
 Our website hosted on: https://lavu-ai.neocities.org/, has 5 main pages: Home, About, Services, Portfolio
 and Contact. The Home page instigates the user about the purpose of LAVU, About explains
@@ -54,6 +60,9 @@ user can be redirected to the purchase page, and the Contact, where it is possib
 LAVU directly by email.
 
 ### Payment and sales
+
+
+<img src="./Website/lavu-1.0.0/assets/img/website_sales.png" width="900"/>
 
 We created a flow where the user views a product from our portfolio and can choose
 to buy it, and our payment sales is implemented through PayPal.Each product has a link
@@ -84,6 +93,8 @@ public in a fun and informal way; and on LinkedIn, which is highly effective in 
 quality leads.
 
 ## Business Model Canvas
+
+<img src="./Website/lavu-1.0.0/assets/img/lavu_3.png" width="900"/>
 
 
 # Students members 
