@@ -7,17 +7,21 @@ LAVU is based on the concept of combining traditional products with trends consu
 
 ## Production and outputs
 
-### Project 1( Burberry T-hirts and Maisons `a Horta)
+### Project 1( Burberry T-hirts and Maisons a Horta)
 
-LAVU’s first project aims to combine Burberry t-shirts with Picasso’s famous painting Mais-
-ons `a Horta, since t-shirts are a primary item chosen by many people on a daily basis.
+LAVU’s first project aims to combine Burberry t-shirts with Picasso’s famous painting Maisons a Horta, since t-shirts are a primary item chosen by many people on a daily basis.
 
 
-### Project 2(Chanel Bag and Starry Night Over the Rhˆone)
+<img src="./Website/lavu-1.0.0/assets/img/burberry-picasso/burberrt_picasso_4.png" width="400"/>
+
+
+### Project 2(Chanel Bag and Starry Night Over the Rhone)
 We decided to use Chanel handbags for our second customisation project
 implementing collected information. Chanel, one of the most recognisable and well known
 luxury fashion brands in the world, is very popular among current generations for its classic
 product designs and craftsmanship.
+
+<img src="./Website/lavu-1.0.0/assets/img/chanel-van-gogh/chanel_van_gogh_4.png" alt="Screenshot" width="400"/>
 
 ### Project 3 (Chanel Perfumes and Takashi Murakami)
 
@@ -27,7 +31,9 @@ FY24 according to Forbes. Therefore we have decided to design Chanel perfume bot
 carry a distinctive design principle, in order to give customers their favorite perfume bottles
 redesign with fun and lovable art style.
 
-### Project 4 (Chanel Perfumes and Takashi Murakami)
+<img src="./Website/lavu-1.0.0/assets/img/chanel-murakami/chanel_murakami_4.png" alt="Screenshot" width="400"/>
+
+### Project 4 (Dior and Tarsila do Amaral)
 
 LAVU’s fourth product explores Dior’s skincare lines and Tarsila do Amaral’s painting, titled
 “Postcard.”We strongly support a multi-plural environment to pursue big
@@ -35,16 +41,29 @@ dreams, and considering that our exploration was defined with Tarsila do Amaral,
 painter and Latin American modernist.
 
 
+<img src="./Website/lavu-1.0.0/assets/img/dior-tarsila/dior_tarsila_2.jpeg" alt="Screenshot" width="400"/>
+
+
 ## Portfolio
 ### Webiste
 
-Our website hosted on: . It has 5 main pages: Home, About, Services, Portfolio
+Our website hosted on: https://lavu-ai.neocities.org/, has 5 main pages: Home, About, Services, Portfolio
 and Contact. The Home page instigates the user about the purpose of LAVU, About explains
 the values and history of LAVU, the Portfolio demonstrates all the product cases where the
 user can be redirected to the purchase page, and the Contact, where it is possible to contact
 LAVU directly by email.
 
 ### Payment and sales
+
+We created a flow where the user views a product from our portfolio and can choose
+to buy it, and our payment sales is implemented through PayPal.Each product has a link
+that takes the user to another page where they confirm their information, such as name,
+email, and desired quantity. After that, the user is redirected to the payment page using
+the PayPal button as observed in Fugure 6. We receive the information that the products
+were purchased through an internal Getform and, after the payment is made, we send
+the image to the user by email. We decided not to carry out an automatic process of
+offering the image for download, as we have the possibility of better tracking our product
+and improving the quality of delivery of the image to the customer.
 
 
 ### NFTs
@@ -65,6 +84,7 @@ public in a fun and informal way; and on LinkedIn, which is highly effective in 
 quality leads.
 
 ## Business Model Canvas
+
 
 # Students members 
 
